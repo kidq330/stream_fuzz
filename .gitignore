@@ -1,0 +1,28 @@
+# Nix
+.result
+result
+.direnv/
+
+# Local Mix/Hex homes used by flake shellHook
+.mix/
+.hex/
+
+# Elixir / Mix
+_build/
+deps/
+doc/
+.fetch
+erl_crash.dump
+erllib_crash.dump
+*.ez
+archives/
+cover/
+.stream_fuzz/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*~
+_scratch/
