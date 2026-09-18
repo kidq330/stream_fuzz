@@ -1,3 +1,5 @@
+# NOTE: This is an LLM-generated PoC. I've only tested it on a few parser projects and it found some bugs, but I wouldn't confidently say a regular property-testing suite wouldn't. Feedback is welcome :)
+
 # StreamFuzz
 
 Coverage-guided fuzzing for [StreamData](https://github.com/whatyouhide/stream_data) / `ExUnitProperties`.
